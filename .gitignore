@@ -1,0 +1,6 @@
+cpanfile
+cpanfile.snapshot
+local
+*.swp
+localconfig.json
+conf/test_*.yml
