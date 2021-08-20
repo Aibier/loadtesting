@@ -3,3 +3,4 @@ local
 *.swp
 localconfig.json
 conf/test_*.yml
+/.idea/
