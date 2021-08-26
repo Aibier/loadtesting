@@ -6,3 +6,4 @@ requires 'JSON';
 requires 'JSON::Parse';
 requires 'JSON::XS';
 requires 'Mojo::Util';
+requires 'IO::Socket::SSL';
